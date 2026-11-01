@@ -99,6 +99,12 @@ wazuh-siem-soc-lab/
     └── 06-mshta-alert-results.png
 ```
 
+## Architecture
+
+The following diagram illustrates the lab environment, Wazuh SIEM components, endpoint telemetry flow, detection use cases, and SOC investigation workflow.
+
+![Wazuh SIEM Architecture](screenshots/wazuh-architecture.png)
+
 ## Skills demonstrated
 
 - SIEM deployment concepts and endpoint log monitoring
