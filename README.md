@@ -96,7 +96,8 @@ wazuh-siem-soc-lab/
     ├── 03-rdp-bruteforce-alert.png
     ├── 04-rdp-alert-details.png
     ├── 05-mshta-alert-details.png
-    └── 06-mshta-alert-results.png
+    ├── 06-mshta-alert-results.png
+    └── wazuh-architecture.png
 ```
 
 ## Architecture
